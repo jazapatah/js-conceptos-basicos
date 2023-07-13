@@ -8,4 +8,7 @@
 */ 
 
 // Imprime en la consola del navegador
-console.log('Hola Mundo')
+console.log('Hola Mundo');
+console.warn('Hola Mundo'); //advertencia
+
+
