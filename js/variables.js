@@ -18,4 +18,18 @@ const casado = false; //Tipo boolean
 edad = 25;
 
 console.log(edad)
-// min 31:00
+console.table(edad, casado, miNombre);
+//Concatenación usando el símbolo "+"
+console.table('Mi edad es ' + edad, 'mi estado civil es ' + casado, 'Mi nombre es ' + miNombre);
+
+// Operadores matemáticos
+
+const num1 = 20;
+const num2 = 20; // Js es case sensitive
+const num3 = 60;
+const suma = num1 +  num2 + num3;
+
+console.log(`La suma:  ${suma}`); //Concatenación con block tic, comillas oblicuas, alt gr + }
+
+
+// min 1:02:20
