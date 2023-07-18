@@ -28,8 +28,14 @@ const num1 = 20;
 const num2 = 20; // Js es case sensitive
 const num3 = 60;
 const suma = num1 +  num2 + num3;
+const resta = num1 - num2 - num3;
+const prod = num1*num2*num3;
+const division = num1/num2/num3;
 
 console.log(`La suma:  ${suma}`); //Concatenación con block tic, comillas oblicuas, alt gr + }
 
+console.log(`La resta:  ${resta}`);
+console.log(`El producto:  ${prod}`);
+console.log(`La división:  ${division}`);
 
 // min 1:02:20
