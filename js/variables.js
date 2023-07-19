@@ -37,5 +37,3 @@ console.log(`La suma:  ${suma}`); //Concatenación con block tic, comillas oblic
 console.log(`La resta:  ${resta}`);
 console.log(`El producto:  ${prod}`);
 console.log(`La división:  ${division}`);
-
-// min 1:02:20
